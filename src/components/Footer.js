@@ -1,0 +1,14 @@
+const Footer = () => {
+  return (
+    <footer className="py-4 flex flex-col gap-3 items-center bg-orange-200 opacity-75 ">
+      <h2 className="text-2xl font-bold uppercase italic">
+      Spice<span className="text-orange-500">Sailors</span>
+      </h2>
+      <p className=" text-xs font-semibold">
+        &copy; {new Date().getFullYear()} SpiceSailors Developed by Akash
+      </p>
+    </footer>
+  );
+};
+
+export default Footer;

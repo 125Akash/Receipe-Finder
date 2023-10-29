@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@import url('https://fonts.googleapis.com/css2?family=Geologica&display=swap');
+
+body {
+  font-family: 'Geologica', sans-serif;
+}
+
+::selection {
+  background-color: #74b5d3;
+  color: #f0f9ff;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 10%;
+  background-color: #ba2be5;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #e3edab;
+}
