@@ -29,7 +29,7 @@ To get started with SpiceSailor Recipe Finder, follow these simple steps:
 1. **Installation**: Clone the SpiceSailor Recipe Finder React application from our GitHub repository:
 
    ```bash
-   git clone https://github.com/YourUsername/SpiceSailor-Recipe-Finder.git
+   git clone https://github.com/125Akash/Receipe-Finder.git
    ```
 
 2. **Installation**: Navigate to the project directory and install the required dependencies:
