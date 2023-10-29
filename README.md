@@ -26,17 +26,32 @@ SpiceSailor Recipe Finder, built as a React application, offers a range of featu
 
 To get started with SpiceSailor Recipe Finder, follow these simple steps:
 
-1. **Installation**: Download and install the SpiceSailor Recipe Finder React application (instructions provided on the website).
+1. **Installation**: Clone the SpiceSailor Recipe Finder React application from our GitHub repository:
 
-2. **Registration**: Create a user account if you want to access the favorite recipe feature.
+   ```bash
+   git clone https://github.com/YourUsername/SpiceSailor-Recipe-Finder.git
+   ```
 
-3. **Login**: Log in with your user account if you've created one. Skip this step if you're just browsing.
+2. **Installation**: Navigate to the project directory and install the required dependencies:
+
+   ```bash
+   cd SpiceSailor-Recipe-Finder
+   npm install
+   ```
+
+3. **Launch the Application**: Start the development server to run the application locally:
+
+   ```bash
+   npm start
+   ```
+
+4. **Access Locally**: Open your web browser and visit [http://localhost:3000](http://localhost:3000) to use SpiceSailor Recipe Finder locally.
 
 ## Search for Recipes
 
 The heart of SpiceSailor Recipe Finder is the search feature. Here's how you can find your favorite recipes:
 
-1. **Launch the Application**: Open SpiceSailor Recipe Finder on your device.
+1. **Launch the Application**: Open SpiceSailor Recipe Finder on your local development server.
 
 2. **Search Bar**: Use the search bar at the top of the screen to enter the name of the recipe or a keyword related to the dish you're looking for.
 
@@ -56,12 +71,11 @@ Once you've found a recipe that catches your eye, you can explore its details:
 
 To save your favorite recipes for future reference:
 
-1. **Login**: Ensure you're logged into your account (registration required).
+1. **Favorite Recipe**: While viewing a recipe, click the "Add to Favorites" button.
 
-2. **Favorite Recipe**: While viewing a recipe, click the "Add to Favorites" button.
-
-3. **Access Favorites**: In the main menu, access your favorite recipes to see the list of recipes you've saved.
+2. **Access Favorites**: In the main menu, access your favorite recipes to see the list of recipes you've saved.
 
 ## Feedback
 
 We value your feedback. If you have any suggestions, questions, or encounter issues while using SpiceSailor Recipe Finder, please contact our support team through the provided contact details on the website.
+
