@@ -1,7 +1,7 @@
 # SpiceSailor Recipe Finder (React Application)
 
 SpiceSailor Recipe Finder is a delightful React application designed to assist you in your culinary endeavors. Whether you're an experienced chef or a kitchen novice, our user-friendly interface and powerful features make it easier than ever to discover, explore, and save your favorite recipes. With a robust search bar, detailed recipe information, and the ability to create your favorite recipe list, SpiceSailor Recipe Finder is the perfect companion for your cooking adventures.
-#Live Site - https://receipe-finder-eight.vercel.app/
+# Live Site - https://receipe-finder-eight.vercel.app/
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
